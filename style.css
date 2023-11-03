@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+  html{
+    font-size: 10px;
+  }
+}
+
+/* Styles for tablet devices */
+@media (min-width: 768px) and (max-width: 991px) {
+  html{
+    font-size: 12px;
+  }
+
+}
+/* Styles for desktop devices */
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+
+
