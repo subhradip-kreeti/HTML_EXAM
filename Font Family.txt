@@ -1,6 +1,7 @@
 Font  famaly = Roboto
 
 
+
 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -9,16 +10,82 @@ Font  famaly = Roboto
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-        <h2 class="banner__heading" >Love Story Photography</h2>
-        <p class="banner__para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis aliquid culpa voluptatum voluptate, quis quia mai facilis nesciunt ipsam eius cum tenetur consectetur vel reiciendis alias hic quos! Reiciendis es impedit explicabo  eos facilis nesciunt ipsam eius cum tenetur consectetur vel reiciendis alias hic quos! Reiciend facilis molestiae veritatis!</p>
+
+              <div class="row d-flex align-items-center justify-content-center mb-md-3">
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+              </div>
+              <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+              </div>
+
     </div>
     <div class="carousel-item">
-        <h2 class="banner__heading" >Love Story Photography</h2>
-        <p class="banner__para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis aliquid culpa voluptatum voluptate, quis quia mai facilis nesciunt ipsam eius cum tenetur consectetur vel reiciendis alias hic quos! Reiciendis es impedit explicabo  eos facilis nesciunt ipsam eius cum tenetur consectetur vel reiciendis alias hic quos! Reiciend facilis molestiae veritatis!</p>
+
+              <div class="row d-flex align-items-center justify-content-center mb-md-3">
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+              </div>
+              <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+              </div>
+
     </div>
     <div class="carousel-item">
-        <h2 class="banner__heading" >Love Story Photography</h2>
-        <p class="banner__para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis aliquid culpa voluptatum voluptate, quis quia mai facilis nesciunt ipsam eius cum tenetur consectetur vel reiciendis alias hic quos! Reiciendis es impedit explicabo  eos facilis nesciunt ipsam eius cum tenetur consectetur vel reiciendis alias hic quos! Reiciend facilis molestiae veritatis!</p>
+
+              <div class="row d-flex align-items-center justify-content-center mb-md-3">
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+              </div>
+              <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+                <div class="col-md-3 col-12">
+                  <img class="img-fluid" src="asset/image_3.jpg" alt="gallery-image">
+                </div>
+              </div>
+
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -30,7 +97,4 @@ Font  famaly = Roboto
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
-
-
 
