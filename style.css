@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
 }
 @font-face {
   font-family: Roboto;
@@ -42,7 +42,7 @@ body{
 }
 .banner{
   position: absolute;
-  top: 50%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -206,6 +206,9 @@ body{
   font-weight: 600;
   font-size: 1.083rem;
 }
+.carousel-indicators{
+  /* margin-top: 4rem; */
+}
 .carousel-indicators [data-bs-target] {
   width: 15px !important;
   height: 15px !important;
@@ -268,6 +271,9 @@ body{
   .contact-content-second__image {
     max-width: 100%;
     height: auto;
+  }
+  .carousel-item .col-md-3:not(.col-12) {
+    display: none;
   }
 }
 
